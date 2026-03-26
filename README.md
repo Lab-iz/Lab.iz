@@ -1,11 +1,4 @@
 <p align="center">
-  <h1 align="center">lab.iz</h1>
-  <p align="center">
-    Criação de softwares, ferramentas e aplicações educacionais e profissionais.
-  </p>
-</p>
-
-<p align="center">
   <img alt="Status" src="https://img.shields.io/badge/status-em%20desenvolvimento-blue">
   <img alt="Área" src="https://img.shields.io/badge/foco-educação%20e%20tecnologia-6f42c1">
   <img alt="Stack" src="https://img.shields.io/badge/stack-web%20%7C%20software%20%7C%20IA-0a7ea4">
